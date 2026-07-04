@@ -1,0 +1,8 @@
+Compound ID,Substituent,D_max (Å),Avg EN,Exp pKa,Pred pKa,Residual
+1a,Methyl,3.54,2.35,25.0,23.82,1.18
+1b,tert-Butyl,4.62,2.31,25.5,23.95,1.55
+1c,Trifluoromethyl,4.394,3.113,18.2,16.48,1.72
+1d,Phenyl,7.394,2.34,23.2,23.04,0.16
+1e,p-Nitrophenyl,8.787,2.466,19.8,21.54,-1.74
+1f,p-Methoxyphenyl,9.72,2.383,24.1,22.11,1.99
+1g,Cyano,4.962,2.578,16.5,21.36,-4.86

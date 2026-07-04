@@ -1,0 +1,8 @@
+Compound ID,Substituent,Hammett sigma_m,Hammett sigma_p,D_max (Å),Avg EN
+1a,Methyl,-0.07,-0.17,3.54,2.35
+1b,tert-Butyl,-0.1,-0.2,4.62,2.31
+1c,Trifluoromethyl,0.43,0.54,4.394,3.113
+1d,Phenyl,0.06,-0.01,7.394,2.34
+1e,p-Nitrophenyl,0.71,0.78,8.787,2.466
+1f,p-Methoxyphenyl,0.12,-0.27,9.72,2.383
+1g,Cyano,0.56,0.66,4.962,2.578
